@@ -1,0 +1,1 @@
+![screencapture-localhost-8888-notebooks-Matplotlib-plot-color-examples-ipynb-2021-06-06-14_28_59](https://user-images.githubusercontent.com/84277750/120918754-a2ffbc00-c6d3-11eb-8e31-77e5994a637b.png)
